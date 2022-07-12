@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 ## Introduction
-algo nuevo
+ this is an example
 ## Purpose
 ## Deployment
 ## How To Contribute
